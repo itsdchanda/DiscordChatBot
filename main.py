@@ -44,4 +44,4 @@ async def on_message(message):
 
 
 
-client.run('MTA3MjQwNjk1MzY2MzQxODM5OA.GLeD5-.nVoT2eF5fG6auP4aoyMuwU8NAlGnIxwgaYOwY8')
+client.run('YOUR_TOKEN_ID')
